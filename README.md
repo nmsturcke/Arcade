@@ -6,11 +6,11 @@ To be **very clear**, this is **NOT** my theme. Full credit to [flower](https://
 
 ## How to install
 
-### v0.3
+### v0
 
 Paste the following link into Enmity themes:
 ```
-https://raw.githubusercontent.com/nmsturcke/Arcade/v0.3/theme/ArcadeLite.json
+https://raw.githubusercontent.com/nmsturcke/Arcade/v0/theme/ArcadeLite.json
 ```
 
 ### latest
