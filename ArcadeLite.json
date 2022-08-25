@@ -106,7 +106,7 @@
       "hsla(217, 7.6%, 33.5%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
+      "#F0FF00",
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
@@ -138,9 +138,9 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#9262ff",
     "PRIMARY_DARK_500": "#2a1858",
-    "PRIMARY_DARK_600": "transparent",
-    "PRIMARY_DARK_630": "transparent",
-    "PRIMARY_DARK_700": "transparent",
+    "PRIMARY_DARK_600": "#1E0D4B",
+    "PRIMARY_DARK_630": "#170544",
+    "PRIMARY_DARK_700": "#1A064D",
     "PRIMARY_DARK_800": "#1f1142",
     "PRIMARY_DARK_900": "#090909",
     "BRAND_NEW": "#5e28d7"
