@@ -1,7 +1,8 @@
 {
   "name": "ArcadeLite",
-  "description": "",
+  "description": "A dark blue theme suitable for all times of day (and night!)",
   "version": "0.4",
+  "color": "#2a1858",
   "authors": [
     {
       "name": "flower",
