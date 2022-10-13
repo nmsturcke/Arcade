@@ -2,7 +2,7 @@
 
 This is a theme for Enmity Discord iOS with dark blue colours, friendly for all times of day (and night!)
 
-To be **very clear**, this is **NOT** my theme. Full credit to [flower](https://discord.com/users/836452332387565589). I have only tweeked it slightly, to improve it for **my experience** and thought I would post it here if anyone else would like to use it.
+To be **very clear**, this is **NOT** my theme. Full credit to [flower](https://discord.com/users/836452332387565589). I have only tweaked it slightly, to improve it for **my experience** and thought I would post it here if anyone else would like to use it.
 
 ## How to install
 
