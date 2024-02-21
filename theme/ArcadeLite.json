@@ -148,9 +148,9 @@
     "PRIMARY_DARK_700": "#1A064D",
     "PRIMARY_DARK_800": "#1f1142",
     "PRIMARY_DARK_900": "#090909",
-    "BRAND_NEW": "#5e28d7"
-  },
-  "unsafe_colors": {
-    "CHAT_GREY": "#1E0D4B"
+"background": {
+    "blur": 0.1,
+    "url": "[https://cdn.discordapp.com/attachments/1143282353704288437/1144089011338608660/IMG_8454.png]",
+    "alpha": 1.0
   }
 }
